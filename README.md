@@ -1,4 +1,4 @@
-![mariposa](https://mariposa.matthewmollentze.com/wp-content/uploads/2022/12/rechat_github.png)
+![ReChat](/rechat_github.png)
 
 # ReChat - Web-Based Instant Messaging
 
@@ -6,7 +6,7 @@ Built with Bootstrap v5.1.3 in Nodejs with Socket.io. Current features include g
 
 https://mariposa.matthewmollentze.com/
 
-![ReChat Screenshot](https://mariposa.matthewmollentze.com/wp-content/uploads/2022/12/rechat.png)
+![ReChat Screenshot](/rechat.png)
 
 ## Features
 
